@@ -109,3 +109,5 @@ run_gui()
 
 print(current_data)
 print(symbols)
+
+# was supposed to get ride of global varables but as program doesnt work anymore i just left it 
